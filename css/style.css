@@ -15,6 +15,7 @@ body {
     background-attachment: fixed;
     background-position: center;
     opacity: 0.3;
+    background-repeat: no-repeat;
 }
 
 #parallax-img-2 {
@@ -23,6 +24,7 @@ body {
     background-attachment: fixed;
     background-position: center;
     opacity: 0.3;
+    background-repeat: no-repeat;
 }
 
 .parallax-box {
